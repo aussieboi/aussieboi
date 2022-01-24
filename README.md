@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=aussieboi&color=green&label=👀&style=flat)
+
+
 <!--
 **aussieboi/aussieboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
